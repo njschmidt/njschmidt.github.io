@@ -334,6 +334,10 @@ footer p {
     margin: 0;
 }
 
+hr {
+  box-shadow: 2px 2px 2px #333;
+}
+
 /*::-moz-selection {
     text-shadow: none;
     background: #fcfcfc;
