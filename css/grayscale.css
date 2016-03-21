@@ -30,6 +30,11 @@ h6 {
     letter-spacing: 1px;
 }
 
+span.h1-lower {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
 p {
     margin: 0 0 25px;
     font-size: 18px;
