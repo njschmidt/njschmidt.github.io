@@ -336,6 +336,7 @@ footer p {
 
 hr {
   box-shadow: 2px 2px 2px #333;
+  border-bottom: 3px solid #FFF;
 }
 
 /*::-moz-selection {
